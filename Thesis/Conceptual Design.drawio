@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T13:58:28.040Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tZGxJ7mCCQD7Yu0fpPDK" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-17T13:58:38.340Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="P2t6NO9-4eRQ521xoqd6" version="24.4.2" type="github">
   <diagram name="Page-1" id="AX_LEsxRzsq6VhchF0KD">
     <mxGraphModel dx="954" dy="1692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="Wg8RFO9psuNznAwOXjFQ-82" value="6. Watch Tower detects new FL training docker and updates Data Provider Instances" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="147" y="430" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Wg8RFO9psuNznAwOXjFQ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.112;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Wg8RFO9psuNznAwOXjFQ-64" target="Wg8RFO9psuNznAwOXjFQ-83">
+        <mxCell id="Wg8RFO9psuNznAwOXjFQ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.12;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Wg8RFO9psuNznAwOXjFQ-64" target="Wg8RFO9psuNznAwOXjFQ-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wg8RFO9psuNznAwOXjFQ-85" value="Communication Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
