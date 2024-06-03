@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T11:31:11.654Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="HoN2lxrI6SMYsJEJYrOE" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T11:32:31.108Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="BKalrE6VWrP8vDFT6LLV" version="24.4.13" type="github">
   <diagram name="Page-1" id="AX_LEsxRzsq6VhchF0KD">
     <mxGraphModel dx="865" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="480.4" y="-128.80000000000004" width="71.2" height="35.6" as="geometry" />
         </mxCell>
         <mxCell id="Wg8RFO9psuNznAwOXjFQ-89" value="FL Experiment Metrics back to scientists" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="9.999999999999986" y="290" width="140" height="20" as="geometry" />
+          <mxGeometry x="19.999999999999986" y="250" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-5" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="220" y="-350" width="210" height="160" as="geometry" />
@@ -136,7 +136,7 @@
           <mxGeometry x="314.99954545454545" y="47.5" width="186.52090909090907" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-45" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Communication&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Server&lt;/font&gt;&lt;/div&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="652.98" y="80" width="33.93" height="32.57" as="geometry" />
+          <mxGeometry x="652.98" y="90" width="33.93" height="32.57" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gsRz97ZzxrVawrSgIsjQ-43" target="gsRz97ZzxrVawrSgIsjQ-45">
           <mxGeometry relative="1" as="geometry" />
@@ -145,37 +145,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wg8RFO9psuNznAwOXjFQ-83" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="166" y="68" width="454" height="282" as="geometry" />
+          <mxGeometry x="166" y="68" width="454" height="232" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-47" value="Private Data" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fontSize=11;" vertex="1" parent="Wg8RFO9psuNznAwOXjFQ-83">
-          <mxGeometry x="217" y="14.300000000000008" width="28.75" height="35.5" as="geometry" />
+          <mxGeometry x="226" y="19.300000000000008" width="28.75" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-48" value="FL Code" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/github-128.png;fontSize=11;" vertex="1" parent="Wg8RFO9psuNznAwOXjFQ-83">
-          <mxGeometry x="14.75" y="14.299999999999997" width="45.5" height="45.5" as="geometry" />
+          <mxGeometry x="9.75" y="14.299999999999997" width="45.5" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-49" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 11px;&quot;&gt;Global Model&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="Wg8RFO9psuNznAwOXjFQ-83">
-          <mxGeometry x="86.75" y="24.299999999999997" width="35.5" height="35.5" as="geometry" />
+          <mxGeometry x="78.75" y="24.299999999999997" width="35.5" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-50" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 11px;&quot;&gt;Local Model&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="Wg8RFO9psuNznAwOXjFQ-83">
-          <mxGeometry x="165.75" y="24.299999999999997" width="35.5" height="35.5" as="geometry" />
+          <mxGeometry x="149.75" y="24.299999999999997" width="35.5" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="Wg8RFO9psuNznAwOXjFQ-47" value="FL Training &amp;amp;&lt;div style=&quot;font-size: 11px;&quot;&gt;Aggregation&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=11;image=img/lib/mscae/Docker.svg;" parent="Wg8RFO9psuNznAwOXjFQ-83" vertex="1">
-          <mxGeometry x="296" y="14.299999999999997" width="34.39" height="28.2" as="geometry" />
+          <mxGeometry x="302" y="22.299999999999997" width="34.39" height="28.2" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-43" value="FL Registration" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=11;image=img/lib/mscae/Docker.svg;" vertex="1" parent="Wg8RFO9psuNznAwOXjFQ-83">
-          <mxGeometry x="385" y="19" width="34.39" height="28.2" as="geometry" />
+          <mxGeometry x="385" y="29" width="34.39" height="28.2" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-63" value="() FL training with private data" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacingTop=0;spacing=2;fontSize=11;" vertex="1" parent="Wg8RFO9psuNznAwOXjFQ-83">
-          <mxGeometry x="14.75" y="162" width="265.25" height="28" as="geometry" />
+          <mxGeometry x="14.75" y="102" width="265.25" height="28" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-65" value="() Model aggregation" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacingTop=0;spacing=2;fontSize=11;" vertex="1" parent="Wg8RFO9psuNznAwOXjFQ-83">
-          <mxGeometry x="14.75" y="190" width="265.25" height="28" as="geometry" />
+          <mxGeometry x="14.75" y="130" width="265.25" height="28" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-66" value="() Fetch aggregated model" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacingTop=0;spacing=2;fontSize=11;" vertex="1" parent="Wg8RFO9psuNznAwOXjFQ-83">
-          <mxGeometry x="15.129999999999995" y="218" width="265.25" height="28" as="geometry" />
+          <mxGeometry x="15.129999999999995" y="158" width="265.25" height="28" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-67" value="() Repeat training and aggregation" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacingTop=0;spacing=2;fontSize=11;" vertex="1" parent="Wg8RFO9psuNznAwOXjFQ-83">
-          <mxGeometry x="15.129999999999995" y="246" width="265.25" height="28" as="geometry" />
+          <mxGeometry x="15.129999999999995" y="186" width="265.25" height="28" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-61" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Data Scientists&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="5" y="-297.5" width="90" height="20" as="geometry" />
