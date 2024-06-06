@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T13:29:58.861Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="EiH_eA2YUlr2aq1EYZ9G" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T13:31:23.640Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="443gAvWwMTLcexbtlEbT" version="24.4.14" type="github">
   <diagram name="Page1" id="NEXpg8mMELJVyuJZF_cd">
-    <mxGraphModel dx="1787" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="846" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
           <mxGeometry x="175" y="14.650000000000006" width="100" height="56.27" as="geometry" />
         </mxCell>
         <mxCell id="1ySO0X2h_ErhjbWXgJ8U-26" value="Registration" style="swimlane;startSize=30;align=right;verticalAlign=top;rounded=1;fontSize=20;" parent="WtJWkSgsJmSIMDweP3ym-11" vertex="1">
-          <mxGeometry x="15.75" y="120" width="160" height="110" as="geometry" />
+          <mxGeometry x="15.75" y="120" width="174.25" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1ySO0X2h_ErhjbWXgJ8U-25" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" parent="1ySO0X2h_ErhjbWXgJ8U-26" vertex="1">
           <mxGeometry x="13" y="3" width="30" height="24.6" as="geometry" />
@@ -50,8 +50,8 @@
         <mxCell id="WtJWkSgsJmSIMDweP3ym-3" value="API Server" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api;fontSize=20;" vertex="1" parent="1ySO0X2h_ErhjbWXgJ8U-26">
           <mxGeometry x="54.999999999999964" y="40" width="45" height="43.2" as="geometry" />
         </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-4" value="Federated Learning" style="swimlane;startSize=30;align=right;verticalAlign=top;rounded=1;fontSize=20;" vertex="1" parent="WtJWkSgsJmSIMDweP3ym-11">
-          <mxGeometry x="220" y="120" width="192" height="110" as="geometry" />
+        <mxCell id="WtJWkSgsJmSIMDweP3ym-4" value="Training" style="swimlane;startSize=30;align=right;verticalAlign=top;rounded=1;fontSize=20;" vertex="1" parent="WtJWkSgsJmSIMDweP3ym-11">
+          <mxGeometry x="220" y="120" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WtJWkSgsJmSIMDweP3ym-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" vertex="1" parent="WtJWkSgsJmSIMDweP3ym-4">
           <mxGeometry x="13" y="3" width="30" height="24.6" as="geometry" />
@@ -60,13 +60,13 @@
           <mxGeometry x="29.999999999999964" y="40" width="45" height="43.2" as="geometry" />
         </mxCell>
         <mxCell id="WtJWkSgsJmSIMDweP3ym-19" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=20;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.source_code;" vertex="1" parent="WtJWkSgsJmSIMDweP3ym-4">
-          <mxGeometry x="120" y="37.4" width="34" height="46.53" as="geometry" />
+          <mxGeometry x="133.66" y="37.4" width="34" height="46.53" as="geometry" />
         </mxCell>
         <mxCell id="WtJWkSgsJmSIMDweP3ym-20" value="FL Code" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="WtJWkSgsJmSIMDweP3ym-4">
-          <mxGeometry x="112.68000000000006" y="92" width="50" height="10" as="geometry" />
+          <mxGeometry x="107" y="83.93" width="87.32" height="28" as="geometry" />
         </mxCell>
         <mxCell id="WtJWkSgsJmSIMDweP3ym-13" value="Watch Tower" style="swimlane;startSize=30;align=right;verticalAlign=top;rounded=1;fontSize=20;" vertex="1" parent="WtJWkSgsJmSIMDweP3ym-11">
-          <mxGeometry x="17" y="260" width="163" height="127.6" as="geometry" />
+          <mxGeometry x="17" y="260" width="173" height="127.6" as="geometry" />
         </mxCell>
         <mxCell id="WtJWkSgsJmSIMDweP3ym-14" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" vertex="1" parent="WtJWkSgsJmSIMDweP3ym-13">
           <mxGeometry x="13" y="3" width="30" height="24.6" as="geometry" />
