@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T13:39:51.845Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="BNbLjARd4QCKaMpiXIUO" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T13:40:18.392Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="NSTUkBv0mDUq8szoidyw" version="24.4.14" type="github">
   <diagram name="Page1" id="NEXpg8mMELJVyuJZF_cd">
-    <mxGraphModel dx="459" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1340" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
             <mxPoint y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.invicti.com/statics/img/drive/h2jfrvzrbyh1yff2n3wfu2hkqqps6x_uvqo.png;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="WtJWkSgsJmSIMDweP3ym-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.invicti.com/statics/img/drive/h2jfrvzrbyh1yff2n3wfu2hkqqps6x_uvqo.png;fontSize=20;imageBorder=#66B2FF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="787.25" y="435.7" width="153.63" height="78.6" as="geometry" />
         </mxCell>
         <mxCell id="WtJWkSgsJmSIMDweP3ym-22" value="" style="group;fontSize=20;" vertex="1" connectable="0" parent="1">
