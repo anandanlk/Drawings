@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T13:42:25.124Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="4-ulK3EeqFQ7LsLh733u" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T13:42:56.823Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="W62ixQOyyN9Sv86OBzKL" version="24.5.2" type="github">
   <diagram name="Page-1" id="AX_LEsxRzsq6VhchF0KD">
     <mxGraphModel dx="804" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,16 +129,16 @@
           <mxGeometry x="154" y="21.999999999999996" width="35.5" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-63" value="(11) FL training with private data" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacingTop=0;spacing=2;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Wg8RFO9psuNznAwOXjFQ-83" vertex="1">
-          <mxGeometry x="30" y="98" width="195.25" height="28" as="geometry" />
+          <mxGeometry x="34" y="98" width="195.25" height="28" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-65" value="(12) Model aggregation" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacingTop=0;spacing=2;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Wg8RFO9psuNznAwOXjFQ-83" vertex="1">
-          <mxGeometry x="265.14" y="98" width="195.25" height="24" as="geometry" />
+          <mxGeometry x="277.14" y="98" width="204.86" height="24" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-66" value="(13) Fetch aggregated model" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacingTop=0;spacing=2;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Wg8RFO9psuNznAwOXjFQ-83" vertex="1">
-          <mxGeometry x="30" y="144" width="194.87" height="28" as="geometry" />
+          <mxGeometry x="34" y="144" width="194.87" height="28" as="geometry" />
         </mxCell>
         <mxCell id="gsRz97ZzxrVawrSgIsjQ-67" value="(14) Repeat training and aggregation" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacingTop=0;spacing=2;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Wg8RFO9psuNznAwOXjFQ-83" vertex="1">
-          <mxGeometry x="265.14" y="142" width="194.87" height="30" as="geometry" />
+          <mxGeometry x="277.14" y="142" width="204.86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jy6STaErRXUeZZu7iDO4-10" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Registration&lt;/font&gt;" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.services;aspect=fixed;" vertex="1" parent="Wg8RFO9psuNznAwOXjFQ-83">
           <mxGeometry x="290" y="18" width="100" height="58.4" as="geometry" />
