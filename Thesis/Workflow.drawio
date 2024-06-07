@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T16:33:19.209Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="u9nUA5Vgv__-LfmdEcfk" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T16:33:26.949Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="EZaKnKAxCvihGeT7XFB0" version="24.5.2" type="github">
   <diagram name="Page-1" id="AX_LEsxRzsq6VhchF0KD">
     <mxGraphModel dx="946" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,9 +25,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gsRz97ZzxrVawrSgIsjQ-27" value="(9) Create Client Infrastructure" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gsRz97ZzxrVawrSgIsjQ-26" vertex="1" connectable="0">
+        <mxCell id="gsRz97ZzxrVawrSgIsjQ-27" value="(9) Create Client Infrastructure" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="gsRz97ZzxrVawrSgIsjQ-26" vertex="1" connectable="0">
           <mxGeometry x="-0.1817" relative="1" as="geometry">
-            <mxPoint y="14" as="offset" />
+            <mxPoint x="-80" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Wg8RFO9psuNznAwOXjFQ-89" value="(15) FL Experiment&amp;nbsp;&lt;div&gt;Metrics to scientists&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
