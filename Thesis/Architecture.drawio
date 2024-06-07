@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T14:58:59.737Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="pNkhe7QmzcInPMO9L9gq" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T15:01:08.622Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="3uzHukZfv-FCT9_zlpuD" version="24.5.2" type="github">
   <diagram name="Page1" id="NEXpg8mMELJVyuJZF_cd">
-    <mxGraphModel dx="618" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1149" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
           <mxGeometry x="188.03" y="53" width="67.68" height="67.68" as="geometry" />
         </mxCell>
         <mxCell id="WtJWkSgsJmSIMDweP3ym-43" value="" style="group;fontSize=20;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="60" y="914" width="370" height="330" as="geometry" />
+          <mxGeometry x="60" y="918" width="370" height="330" as="geometry" />
         </mxCell>
         <mxCell id="1ySO0X2h_ErhjbWXgJ8U-6" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#000000&quot;&gt;Amazon Web Services&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=20;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" parent="WtJWkSgsJmSIMDweP3ym-43" vertex="1">
           <mxGeometry width="369.99999999999994" height="330" as="geometry" />
@@ -159,149 +159,41 @@
         <mxCell id="WtJWkSgsJmSIMDweP3ym-89" value="Data Providers" style="swimlane;fontSize=25;startSize=40;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="40" y="860" width="1580" height="404" as="geometry" />
         </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-124" value="" style="group;fontSize=20;" parent="WtJWkSgsJmSIMDweP3ym-89" vertex="1" connectable="0">
-          <mxGeometry x="410" y="54" width="370" height="330" as="geometry" />
+        <mxCell id="2jOb6JwGztzNqdVxVgme-21" value="" style="group;fontSize=20;" vertex="1" connectable="0" parent="WtJWkSgsJmSIMDweP3ym-89">
+          <mxGeometry x="410" y="58" width="370" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-125" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#000000&quot;&gt;Google Cloud Platform&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=20;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" parent="WtJWkSgsJmSIMDweP3ym-124" vertex="1">
+        <mxCell id="2jOb6JwGztzNqdVxVgme-22" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#000000&quot;&gt;Google Cloud Platform&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=20;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-21">
           <mxGeometry width="369.99999999999994" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-126" value="" style="group;fontSize=20;" parent="WtJWkSgsJmSIMDweP3ym-124" vertex="1" connectable="0">
+        <mxCell id="2jOb6JwGztzNqdVxVgme-23" value="" style="group;fontSize=20;" vertex="1" connectable="0" parent="2jOb6JwGztzNqdVxVgme-21">
           <mxGeometry x="26.11764705882353" y="39" width="322.1176470588235" height="271" as="geometry" />
         </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-127" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Registration&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" parent="WtJWkSgsJmSIMDweP3ym-126" vertex="1">
-          <mxGeometry x="33.878529411764674" y="42.34375" width="61.965843750000005" height="50.8125" as="geometry" />
+        <mxCell id="2jOb6JwGztzNqdVxVgme-24" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Registration&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-23">
+          <mxGeometry x="23.878529411764674" y="57.00375" width="61.965843750000005" height="50.8125" as="geometry" />
         </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-128" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Google Compute Engine&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=20;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_ec2_instance_contents;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" parent="WtJWkSgsJmSIMDweP3ym-126" vertex="1">
+        <mxCell id="2jOb6JwGztzNqdVxVgme-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Google Compute Engine&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=20;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_ec2_instance_contents;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-23">
           <mxGeometry width="322.1176470588235" height="271" as="geometry" />
         </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-129" value="" style="group" parent="WtJWkSgsJmSIMDweP3ym-124" vertex="1" connectable="0">
-          <mxGeometry x="149.9976470588235" y="206.00481248967458" width="142.5588235294118" height="94.16518751032544" as="geometry" />
+        <mxCell id="2jOb6JwGztzNqdVxVgme-26" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#000000&quot;&gt;Local Model&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=20;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-23">
+          <mxGeometry x="147.8809476775587" y="177.00481248967458" width="58" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-130" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=20;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" parent="WtJWkSgsJmSIMDweP3ym-129" vertex="1">
-          <mxGeometry x="39.72094767755871" width="58" height="58" as="geometry" />
+        <mxCell id="2jOb6JwGztzNqdVxVgme-27" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;FL Training&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-21">
+          <mxGeometry x="150.00441176470588" y="96" width="61.965843750000005" height="50.8125" as="geometry" />
         </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-131" value="Global Model" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;fontColor=default;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=1.5;lucidId=JP-5DdF21XDj;align=center;" parent="WtJWkSgsJmSIMDweP3ym-129" vertex="1">
-          <mxGeometry y="57.99518751032542" width="142.55882352941174" height="36.17" as="geometry" />
+        <mxCell id="2jOb6JwGztzNqdVxVgme-28" value="" style="group" vertex="1" connectable="0" parent="2jOb6JwGztzNqdVxVgme-21">
+          <mxGeometry x="240.00470588235294" y="196.00121875000005" width="127.99388885402931" height="105.41" as="geometry" />
         </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-132" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Training &amp;amp;&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Aggregation&lt;/font&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" parent="WtJWkSgsJmSIMDweP3ym-124" vertex="1">
-          <mxGeometry x="60.004411764705864" y="186" width="61.965843750000005" height="50.8125" as="geometry" />
+        <mxCell id="2jOb6JwGztzNqdVxVgme-29" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fontSize=20;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-28">
+          <mxGeometry x="35.91941176470577" y="20.53" width="48.17025" height="59.4675625" as="geometry" />
         </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-133" value="" style="group" parent="WtJWkSgsJmSIMDweP3ym-124" vertex="1" connectable="0">
-          <mxGeometry x="150.0008284681321" y="86.00481248967458" width="130.91203640840666" height="101.57518751032546" as="geometry" />
+        <mxCell id="2jOb6JwGztzNqdVxVgme-30" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-28">
+          <mxGeometry y="80" width="120" height="25.41" as="geometry" />
         </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-134" value="" style="group;fontSize=20;" parent="WtJWkSgsJmSIMDweP3ym-133" vertex="1" connectable="0">
-          <mxGeometry width="130.91203640840664" height="101.57518751032549" as="geometry" />
+        <mxCell id="2jOb6JwGztzNqdVxVgme-31" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Watch Tower&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-21">
+          <mxGeometry x="256.03617647058826" y="96.00375000000008" width="61.965843750000005" height="50.8125" as="geometry" />
         </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-135" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=20;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" parent="WtJWkSgsJmSIMDweP3ym-134" vertex="1">
-          <mxGeometry x="33.818942738838395" y="-10.000000000000002" width="58" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-136" value="Local model" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;fontColor=default;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=1.5;lucidId=JP-5DdF21XDj;align=center;" parent="WtJWkSgsJmSIMDweP3ym-133" vertex="1">
-          <mxGeometry y="47.99046753675867" width="130.91203640840664" height="36.17471997356685" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-137" value="" style="group" parent="WtJWkSgsJmSIMDweP3ym-124" vertex="1" connectable="0">
-          <mxGeometry x="277.94470588235293" y="131.40121875" width="65.29411764705878" height="105.40690625000002" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-138" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fontSize=20;" parent="WtJWkSgsJmSIMDweP3ym-137" vertex="1">
-          <mxGeometry x="8.49941176470577" width="48.17025" height="59.4675625" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-139" value="Private Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="WtJWkSgsJmSIMDweP3ym-137" vertex="1">
-          <mxGeometry y="80.00065625000002" width="65.29411764705881" height="25.40625" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-140" value="" style="group;fontSize=20;" parent="WtJWkSgsJmSIMDweP3ym-89" vertex="1" connectable="0">
-          <mxGeometry x="800" y="54.00000000000004" width="370" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-141" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#000000&quot;&gt;Azure Cloud&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=20;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" parent="WtJWkSgsJmSIMDweP3ym-140" vertex="1">
-          <mxGeometry width="369.99999999999994" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-142" value="" style="group;fontSize=20;" parent="WtJWkSgsJmSIMDweP3ym-140" vertex="1" connectable="0">
-          <mxGeometry x="26.11764705882353" y="39" width="322.1176470588235" height="271" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-143" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Registration&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" parent="WtJWkSgsJmSIMDweP3ym-142" vertex="1">
-          <mxGeometry x="33.878529411764674" y="42.34375" width="61.965843750000005" height="50.8125" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-144" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Azure Virtual Machine&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=20;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_ec2_instance_contents;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" parent="WtJWkSgsJmSIMDweP3ym-142" vertex="1">
-          <mxGeometry width="322.1176470588235" height="271" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-145" value="" style="group" parent="WtJWkSgsJmSIMDweP3ym-140" vertex="1" connectable="0">
-          <mxGeometry x="149.9976470588235" y="206.00481248967458" width="142.5588235294118" height="94.16518751032544" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-146" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=20;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" parent="WtJWkSgsJmSIMDweP3ym-145" vertex="1">
-          <mxGeometry x="39.72094767755871" width="58" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-147" value="Global Model" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;fontColor=default;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=1.5;lucidId=JP-5DdF21XDj;align=center;" parent="WtJWkSgsJmSIMDweP3ym-145" vertex="1">
-          <mxGeometry y="57.99518751032542" width="142.55882352941174" height="36.17" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-148" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Training &amp;amp;&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Aggregation&lt;/font&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" parent="WtJWkSgsJmSIMDweP3ym-140" vertex="1">
-          <mxGeometry x="60.004411764705864" y="186" width="61.965843750000005" height="50.8125" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-149" value="" style="group" parent="WtJWkSgsJmSIMDweP3ym-140" vertex="1" connectable="0">
-          <mxGeometry x="150.0008284681321" y="86.00481248967458" width="130.91203640840666" height="101.57518751032546" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-150" value="" style="group;fontSize=20;" parent="WtJWkSgsJmSIMDweP3ym-149" vertex="1" connectable="0">
-          <mxGeometry width="130.91203640840664" height="101.57518751032549" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-151" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=20;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" parent="WtJWkSgsJmSIMDweP3ym-150" vertex="1">
-          <mxGeometry x="33.818942738838395" y="-10.000000000000002" width="58" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-152" value="Local model" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;fontColor=default;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=1.5;lucidId=JP-5DdF21XDj;align=center;" parent="WtJWkSgsJmSIMDweP3ym-149" vertex="1">
-          <mxGeometry y="47.99046753675867" width="130.91203640840664" height="36.17471997356685" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-153" value="" style="group" parent="WtJWkSgsJmSIMDweP3ym-140" vertex="1" connectable="0">
-          <mxGeometry x="277.94470588235293" y="131.40121875" width="65.29411764705878" height="105.40690625000002" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-154" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fontSize=20;" parent="WtJWkSgsJmSIMDweP3ym-153" vertex="1">
-          <mxGeometry x="8.49941176470577" width="48.17025" height="59.4675625" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-155" value="Private Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="WtJWkSgsJmSIMDweP3ym-153" vertex="1">
-          <mxGeometry y="80.00065625000002" width="65.29411764705881" height="25.40625" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-156" value="" style="group;fontSize=20;" parent="WtJWkSgsJmSIMDweP3ym-89" vertex="1" connectable="0">
-          <mxGeometry x="1190" y="54" width="370" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-157" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#000000&quot;&gt;Private Cloud&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=20;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" parent="WtJWkSgsJmSIMDweP3ym-156" vertex="1">
-          <mxGeometry width="369.99999999999994" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-158" value="" style="group;fontSize=20;" parent="WtJWkSgsJmSIMDweP3ym-156" vertex="1" connectable="0">
-          <mxGeometry x="26.11764705882353" y="39" width="322.1176470588235" height="271" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-159" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Registration&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" parent="WtJWkSgsJmSIMDweP3ym-158" vertex="1">
-          <mxGeometry x="33.878529411764674" y="42.34375" width="61.965843750000005" height="50.8125" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-160" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Virtual Machine&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=20;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_ec2_instance_contents;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" parent="WtJWkSgsJmSIMDweP3ym-158" vertex="1">
-          <mxGeometry width="322.1176470588235" height="271" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-161" value="" style="group" parent="WtJWkSgsJmSIMDweP3ym-156" vertex="1" connectable="0">
-          <mxGeometry x="149.9976470588235" y="206.00481248967458" width="142.5588235294118" height="94.16518751032544" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-162" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=20;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" parent="WtJWkSgsJmSIMDweP3ym-161" vertex="1">
-          <mxGeometry x="39.72094767755871" width="58" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-163" value="Global Model" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;fontColor=default;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=1.5;lucidId=JP-5DdF21XDj;align=center;" parent="WtJWkSgsJmSIMDweP3ym-161" vertex="1">
-          <mxGeometry y="57.99518751032542" width="142.55882352941174" height="36.17" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-164" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Training &amp;amp;&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Aggregation&lt;/font&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" parent="WtJWkSgsJmSIMDweP3ym-156" vertex="1">
-          <mxGeometry x="60.004411764705864" y="186" width="61.965843750000005" height="50.8125" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-165" value="" style="group" parent="WtJWkSgsJmSIMDweP3ym-156" vertex="1" connectable="0">
-          <mxGeometry x="150.0008284681321" y="86.00481248967458" width="130.91203640840666" height="101.57518751032546" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-166" value="" style="group;fontSize=20;" parent="WtJWkSgsJmSIMDweP3ym-165" vertex="1" connectable="0">
-          <mxGeometry width="130.91203640840664" height="101.57518751032549" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-167" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=20;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" parent="WtJWkSgsJmSIMDweP3ym-166" vertex="1">
-          <mxGeometry x="33.818942738838395" y="-10.000000000000002" width="58" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-168" value="Local model" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;fontColor=default;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=1.5;lucidId=JP-5DdF21XDj;align=center;" parent="WtJWkSgsJmSIMDweP3ym-165" vertex="1">
-          <mxGeometry y="47.99046753675867" width="130.91203640840664" height="36.17471997356685" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-169" value="" style="group" parent="WtJWkSgsJmSIMDweP3ym-156" vertex="1" connectable="0">
-          <mxGeometry x="277.94470588235293" y="131.40121875" width="65.29411764705878" height="105.40690625000002" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-170" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fontSize=20;" parent="WtJWkSgsJmSIMDweP3ym-169" vertex="1">
-          <mxGeometry x="8.49941176470577" width="48.17025" height="59.4675625" as="geometry" />
-        </mxCell>
-        <mxCell id="WtJWkSgsJmSIMDweP3ym-171" value="Private Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="WtJWkSgsJmSIMDweP3ym-169" vertex="1">
-          <mxGeometry y="80.00065625000002" width="65.29411764705881" height="25.40625" as="geometry" />
+        <mxCell id="2jOb6JwGztzNqdVxVgme-32" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#000000&quot;&gt;Global Model&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=20;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-21">
+          <mxGeometry x="56.998594736382245" y="216.00481248967458" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="WtJWkSgsJmSIMDweP3ym-93" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Initialize FL Training&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="167.95" y="801" width="109" height="30" as="geometry" />
@@ -365,6 +257,78 @@
               <mxPoint x="335" y="410" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-33" value="" style="group;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="840" y="918" width="370" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-34" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#000000&quot;&gt;Azure Cloud&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=20;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-33">
+          <mxGeometry width="369.99999999999994" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-35" value="" style="group;fontSize=20;" vertex="1" connectable="0" parent="2jOb6JwGztzNqdVxVgme-33">
+          <mxGeometry x="26.11764705882353" y="39" width="322.1176470588235" height="271" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-36" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Registration&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-35">
+          <mxGeometry x="23.878529411764674" y="57.00375" width="61.965843750000005" height="50.8125" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-37" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Azure Virtual Machine&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=20;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_ec2_instance_contents;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-35">
+          <mxGeometry width="322.1176470588235" height="271" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-38" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#000000&quot;&gt;Local Model&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=20;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-35">
+          <mxGeometry x="147.8809476775587" y="177.00481248967458" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-39" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;FL Training&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-33">
+          <mxGeometry x="150.00441176470588" y="96" width="61.965843750000005" height="50.8125" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-40" value="" style="group" vertex="1" connectable="0" parent="2jOb6JwGztzNqdVxVgme-33">
+          <mxGeometry x="240.00470588235294" y="196.00121875000005" width="127.99388885402931" height="105.41" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-41" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fontSize=20;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-40">
+          <mxGeometry x="35.91941176470577" y="20.53" width="48.17025" height="59.4675625" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-42" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-40">
+          <mxGeometry y="80" width="120" height="25.41" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-43" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Watch Tower&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-33">
+          <mxGeometry x="256.03617647058826" y="96.00375000000008" width="61.965843750000005" height="50.8125" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-44" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#000000&quot;&gt;Global Model&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=20;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-33">
+          <mxGeometry x="56.998594736382245" y="216.00481248967458" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-46" value="" style="group;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1230" y="920" width="370" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-47" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#000000&quot;&gt;Private Cloud&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=20;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-46">
+          <mxGeometry width="369.99999999999994" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-48" value="" style="group;fontSize=20;" vertex="1" connectable="0" parent="2jOb6JwGztzNqdVxVgme-46">
+          <mxGeometry x="26.11764705882353" y="39" width="322.1176470588235" height="271" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-49" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Registration&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-48">
+          <mxGeometry x="23.878529411764674" y="57.00375" width="61.965843750000005" height="50.8125" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-50" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Virtual Machine&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=20;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_ec2_instance_contents;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-48">
+          <mxGeometry width="322.1176470588235" height="271" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-51" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#000000&quot;&gt;Local Model&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=20;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-48">
+          <mxGeometry x="147.8809476775587" y="177.00481248967458" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-52" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;FL Training&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-46">
+          <mxGeometry x="150.00441176470588" y="96" width="61.965843750000005" height="50.8125" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-53" value="" style="group" vertex="1" connectable="0" parent="2jOb6JwGztzNqdVxVgme-46">
+          <mxGeometry x="240.00470588235294" y="196.00121875000005" width="127.99388885402931" height="105.41" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-54" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fontSize=20;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-53">
+          <mxGeometry x="35.91941176470577" y="20.53" width="48.17025" height="59.4675625" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-55" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-53">
+          <mxGeometry y="80" width="120" height="25.41" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-56" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Watch Tower&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/mscae/Docker.svg;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-46">
+          <mxGeometry x="256.03617647058826" y="96.00375000000008" width="61.965843750000005" height="50.8125" as="geometry" />
+        </mxCell>
+        <mxCell id="2jOb6JwGztzNqdVxVgme-57" value="&lt;font style=&quot;font-size: 17px;&quot; color=&quot;#000000&quot;&gt;Global Model&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=20;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="2jOb6JwGztzNqdVxVgme-46">
+          <mxGeometry x="56.998594736382245" y="216.00481248967458" width="58" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
