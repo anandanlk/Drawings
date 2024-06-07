@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T13:43:21.686Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="xd-atHjbl8anozooAm6T" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T13:43:50.670Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="0EW9MvVQmXVLoWaR6o9x" version="24.5.2" type="github">
   <diagram name="Page-1" id="AX_LEsxRzsq6VhchF0KD">
     <mxGraphModel dx="804" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
             <mxPoint x="640" y="-248.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gsRz97ZzxrVawrSgIsjQ-38" value="&lt;div&gt;(7) Fetch Registration &amp;amp;&lt;/div&gt;&lt;div&gt;Training Docker Containers&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gsRz97ZzxrVawrSgIsjQ-37" vertex="1" connectable="0">
+        <mxCell id="gsRz97ZzxrVawrSgIsjQ-38" value="&lt;div&gt;(7) Fetch Registration &amp;amp;&lt;/div&gt;&lt;div&gt;FL Training Containers&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gsRz97ZzxrVawrSgIsjQ-37" vertex="1" connectable="0">
           <mxGeometry x="-0.2653" y="1" relative="1" as="geometry">
             <mxPoint y="3" as="offset" />
           </mxGeometry>
