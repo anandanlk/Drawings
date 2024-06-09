@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T08:50:38.553Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="bg1twr_6tburUpz1-Afa" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T13:26:37.036Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="kIq14kWlxDzBoeRVXD5n" version="24.5.2" type="github">
   <diagram name="Page-1" id="AX_LEsxRzsq6VhchF0KD">
-    <mxGraphModel dx="1053" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="804" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="Wg8RFO9psuNznAwOXjFQ-17" value="Virtual Research Environment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="-20" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wg8RFO9psuNznAwOXjFQ-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="Wg8RFO9psuNznAwOXjFQ-13" edge="1" source="Wg8RFO9psuNznAwOXjFQ-15">
+        <mxCell id="Wg8RFO9psuNznAwOXjFQ-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Wg8RFO9psuNznAwOXjFQ-15" target="Wg8RFO9psuNznAwOXjFQ-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="142.5" y="60" as="sourcePoint" />
             <mxPoint x="399.5" y="69.5" as="targetPoint" />
@@ -151,7 +151,7 @@
         <mxCell id="Wg8RFO9psuNznAwOXjFQ-89" value="8. FL Experiment Metrics back to scientists" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450.5" y="338" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="p1wfj9jPyC4YvRz6hn-k-2" value="Model&lt;div&gt;Configuration&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="1">
+        <mxCell id="p1wfj9jPyC4YvRz6hn-k-2" value="Model&lt;div&gt;Configuration&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" parent="1" vertex="1">
           <mxGeometry x="366.5" y="37.5" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
