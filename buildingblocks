@@ -1,32 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T05:20:22.600Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="nlZ0Z8GjhTzV4M6qdG_s" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T05:26:45.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3VMO6JmASKeUYV4RFNQz" version="24.6.3" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="737" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="60da8b9f42644d3a-3" value="Community Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="316" y="425" width="280" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="60da8b9f42644d3a-4" value="Blog&lt;div&gt;Keywords&lt;/div&gt;&lt;div&gt;Social Media&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="316" y="725" width="280" height="90" as="geometry" />
+          <mxGeometry x="316" y="420" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-6" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="336" y="485" width="240" height="10" as="geometry" />
+          <mxGeometry x="336" y="480" width="240" height="10" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-7" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="336" y="705" width="240" height="10" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-31" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="316" y="405" width="650" height="175" as="geometry" />
+          <mxGeometry x="316" y="400" width="650" height="175" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-32" value="Build Community Poral" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="320" y="410" width="590" height="50" as="geometry" />
+          <mxGeometry x="320" y="405" width="590" height="50" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-33" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;User registration, collaboration (Researcher, Data Provider, Infrastructure Provider)&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Generate secret token for Infra registration&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Manage Infrastructure status (Online, Offline, Busy)&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Meta data based Infrastructure and Data selection&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Select, download and use available Data and Infrastructure nodes&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="320" y="450" width="640" height="120" as="geometry" />
+          <mxGeometry x="320" y="445" width="640" height="120" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-34" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="335" y="455" width="610" height="10" as="geometry" />
+          <mxGeometry x="335" y="450" width="610" height="10" as="geometry" />
         </mxCell>
         <mxCell id="IQ_UvPfAqZbzp3Erzt9s-1" value="Community Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="316" y="610" width="280" height="60" as="geometry" />
@@ -45,6 +42,27 @@
         </mxCell>
         <mxCell id="IQ_UvPfAqZbzp3Erzt9s-6" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="335" y="640" width="610" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-7" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="335" y="895" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-8" value="Community Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="315" y="800" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-9" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="335" y="860" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-10" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="315" y="780" width="650" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-11" value="FL Training" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="319" y="785" width="590" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-12" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Remove communication server dependency in getting client list for every round&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Remove communication server dependency in getting aggregation server&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Customize CWL_FLOPS to use nodes list from json&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Mechanism to know aggregation server without communication server&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="319" y="825" width="640" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-13" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="334" y="830" width="610" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
