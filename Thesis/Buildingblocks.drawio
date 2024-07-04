@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2024-07-04T11:25:53.381Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="D6xI9GTMlAJPLocqY9Jy" version="24.6.4" type="github">
+  <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
+    <mxGraphModel dx="889" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="60da8b9f42644d3a-3" value="Community Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="316" y="420" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-6" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="336" y="480" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-7" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="336" y="705" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-31" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="316" y="400" width="650" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-32" value="Build Community Poral" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="320" y="405" width="590" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-33" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;User registration, collaboration (Researcher, Data Provider, Infrastructure Provider)&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Manage Infrastructure status (Online, Offline, Busy)&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Meta data based Infrastructure and Data selection&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Select, reserve, download and use available Data and Infrastructure nodes for FL Training&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Release infrastructure upon FL Training completion&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="320" y="450" width="640" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-34" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="335" y="450" width="610" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-1" value="Community Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="316" y="610" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-2" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="336" y="670" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-3" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="316" y="590" width="650" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-4" value="Workflow Orchestration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="320" y="595" width="590" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-5" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Infrastructure registration with FL portal using unique identifier&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Link infrastructure with user data&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Track and Manage Infrastructure&amp;nbsp;status using unique identifier&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Container support for x86 and ARM architecture&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="320" y="650" width="640" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-6" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="335" y="640" width="610" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-7" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="335" y="895" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-8" value="Community Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="315" y="800" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-9" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="335" y="860" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-10" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="315" y="780" width="650" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-11" value="FL Training (Customize CWL_FLOPS)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="319" y="785" width="590" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-12" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Remove centralised server dependency during FL training&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Remove centralised server dependency&amp;nbsp;for aggregation&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Instantiate and control the FL training from researcher machine and obtain metrics&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="319" y="840" width="640" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ_UvPfAqZbzp3Erzt9s-13" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="334" y="830" width="610" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
