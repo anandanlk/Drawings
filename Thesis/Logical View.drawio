@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T17:36:50.960Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Hsd9q9QGry5iWRbJVQ8T" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-06T17:39:18.238Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="CZGAo8mG8twBoPAGdomZ" version="24.6.4" type="github">
   <diagram name="Page-1" id="Auj2j37J0kR2W5HDAG3R">
     <mxGraphModel dx="737" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
         <mxCell id="DXKstGgcpRgzpZrEZe_6-2" value="Data Scientist" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="225" y="160" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TL-GG-57yYF1we5CucfG-3" value="«actor»&lt;br&gt;&lt;b&gt;Data Base&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="TL-GG-57yYF1we5CucfG-3" value="«component»&lt;br&gt;&lt;b&gt;Data Base&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="480" y="390" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TL-GG-57yYF1we5CucfG-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="TL-GG-57yYF1we5CucfG-3">
